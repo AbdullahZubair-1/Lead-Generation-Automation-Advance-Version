@@ -1,0 +1,13 @@
+streamlit
+scrapy
+fake-useragent
+undetected-chromedriver
+cloudscraper
+validate_email
+phonenumbers
+pandas
+requests
+lxml
+beautifulsoup4
+selenium
+loguru 
