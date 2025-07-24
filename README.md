@@ -22,7 +22,9 @@ A modular, open-source web scraping tool for lead generation, featuring advanced
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the UI:
+3. **Recommended for non-technical users:**
+   - Double-click `LeadGenLauncher.bat` to launch the app (installs requirements only once, then runs Streamlit)
+4. Or run manually:
    ```bash
    streamlit run app.py
    ```
